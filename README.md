@@ -36,6 +36,14 @@ To compile the latest version of sinit locally, instead run `docker run -v
 "$(pwd)":/out euank/sinit-installer master`. You may also pass any other tag or
 branch into the first argument for it to be built instead.
 
+## This is dumb
+
+Thanks. I'm still not sure why I thought that downloading 100MB to get a ~13KB
+binary was a good idea, but hey, at least Docker foots the bill for hosting the
+spare bits.
+
+Issues to the right.
+
 ## License
 
 UNLICENSE (that is, Public Domain).
